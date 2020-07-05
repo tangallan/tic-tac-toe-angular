@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tangatosh-a86b2": {
+      "hosting": {
+        "tic-tac-toe": [
+          "tangatosh-a86b2"
+        ]
+      }
+    }
+  }
+}
